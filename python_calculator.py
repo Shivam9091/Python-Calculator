@@ -4,7 +4,7 @@ def mul(a, b):
     return a*b
 def sub(a, b):
     return a-b
-def adiv(a, b):
+def div(a, b):
     return a/b
 
 print ("select options: \n 1 For addition \n 2 for multiply \n 3 for sub \n 4 for divition")
